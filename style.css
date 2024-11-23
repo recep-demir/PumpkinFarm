@@ -1,0 +1,57 @@
+
+
+
+
+
+
+.navbar{
+    position:fixed;
+    z-index: 3;
+    width: 100%;
+    background-color: rgba(50, 44, 34, 0.677) !important;
+    color:white !important;
+}
+.nav-item a{
+    color: white;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+    object-fit: cover;
+
+}
+
+.card img{
+    height: 90%;
+    object-fit: cover;
+}
+
+#cards{
+    background-color: rgba(193, 143, 44, 0.629) !important;
+    
+}
+#cards img{
+    height: 20vh;
+    object-fit: cover;
+}
+
+#formular{
+    background-color: rgba(193, 143, 44, 0.629)
+    
+}
+
+#bottom-btn{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#bottom-btn button{
+    background-color: blueviolet;
+}
+
+#bottom-btn button:hover{
+    background-color: rgb(224, 13, 13);
+
+}
